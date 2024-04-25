@@ -1,11 +1,3 @@
----
-Author: Diyaa Alkanakre
-tags:
-  - TLS
-  - SSL
-  - Certificates
-  - Lets-encrypt
----
 # Overview:
 
 This repository explains how to get a free valid and publicly signed certificate (`p12`) from Let's Encrypt by using their `certbot` script. The example I have below is using the `certbot` DNS challenge extension to generate the certificate.
